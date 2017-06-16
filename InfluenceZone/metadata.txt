@@ -1,7 +1,7 @@
-# This file contains metadata for your plugin. Since 
-# version 2.0 of QGIS this is the proper way to supply 
-# information about a plugin. The old method of 
-# embedding metadata in __init__.py will 
+# This file contains metadata for your plugin. Since
+# version 2.0 of QGIS this is the proper way to supply
+# information about a plugin. The old method of
+# embedding metadata in __init__.py will
 # is no longer supported since version 2.0.
 
 # This file should be included when you package your plugin.# Mandatory items:
@@ -16,8 +16,8 @@ email=dalxder@gmail.com
 
 about=Complemento desarrollado para:
 
-tracker=https://github.com/dalxder
-repository=https://github.com/dalxder/compQgis-Zonas_Influencia
+# tracker=https://github.com/dalxder
+# repository=https://github.com/dalxder/compQgis-Zonas_Influencia
 # End of mandatory metadata
 
 # Recommended items:
@@ -28,9 +28,9 @@ repository=https://github.com/dalxder/compQgis-Zonas_Influencia
 # Tags are comma separated with spaces allowed
 tags=Buffer,Influencia,Distancia
 
-homepage=https://github.com/dalxder/compQgis-Zonas_Influencia
-category=Plugins
-icon=icon.png
+# homepage=https://github.com/dalxder/compQgis-Zonas_Influencia
+category=Vector
+icon=icon.svg
 # experimental flag
 experimental=True
 
